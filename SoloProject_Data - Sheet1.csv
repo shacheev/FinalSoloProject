@@ -1,0 +1,10 @@
+image_path,color,stim_condition,corr_resp,emotion
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/happy.jpeg,green,C,g,happy
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/sad.jpeg,red,C,r,sad
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/neutral.png,gray,C,n,neutral
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/neutral.png,green,I,n,happy
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/sad.jpeg,green,I,r,happy
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/happy.jpeg,red,I,g,sad
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/neutral.png,red,I,n,sad
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/happy.jpeg,gray,I,g,neutral
+/Users/shachee/Downloads/LabInPsychology_24/FinalProject/sad.jpeg,gray,I,r,neutral
